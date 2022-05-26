@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios')
 const http = require('http');
-const { v4: uuidv4 } = require('uuid');
 
 const hostname = '127.0.0.1';
 const port = 7777;
